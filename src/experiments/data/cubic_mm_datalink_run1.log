@@ -1,0 +1,75 @@
+# mahimahi mm-link (Uplink) [/home/burhan/Desktop/pantheon/src/experiments/12mbps.trace] > /home/burhan/Desktop/pantheon/src/experiments/data/cubic_mm_datalink_run1.log
+# command line: 'mm-link' '/home/burhan/Desktop/pantheon/src/experiments/12mbps.trace' '/home/burhan/Desktop/pantheon/src/experiments/12mbps.trace' '--uplink-log=/home/burhan/Desktop/pantheon/src/experiments/data/cubic_mm_datalink_run1.log' '--downlink-log=/home/burhan/Desktop/pantheon/src/experiments/data/cubic_mm_acklink_run1.log' 'python' '/home/burhan/Desktop/pantheon/src/experiments/tunnel_manager.py'
+# queue: infinite
+# init timestamp: 1744935006143
+# base timestamp: 40
+# mahimahi config: [link] 
+40 + 80
+40 + 52
+40 + 80
+41 # 1504
+41 - 80 1
+41 - 52 1
+41 - 80 1
+42 # 1504
+43 # 1504
+44 # 1504
+45 # 1504
+46 # 1504
+47 # 1504
+48 # 1504
+49 # 1504
+50 # 1504
+51 # 1504
+52 # 1504
+53 # 1504
+54 # 1504
+55 # 1504
+56 # 1504
+57 # 1504
+58 # 1504
+59 # 1504
+60 # 1504
+61 # 1504
+62 # 1504
+63 # 1504
+64 # 1504
+65 # 1504
+66 # 1504
+67 # 1504
+68 # 1504
+69 # 1504
+70 # 1504
+71 # 1504
+72 # 1504
+73 # 1504
+74 # 1504
+75 # 1504
+76 # 1504
+77 # 1504
+78 # 1504
+79 # 1504
+80 # 1504
+81 # 1504
+82 # 1504
+83 # 1504
+84 # 1504
+85 # 1504
+86 # 1504
+87 # 1504
+88 # 1504
+89 # 1504
+90 # 1504
+91 # 1504
+92 # 1504
+93 # 1504
+94 # 1504
+95 # 1504
+96 # 1504
+97 # 1504
+98 # 1504
+99 # 1504
+100 # 1504
+101 # 1504
+102 # 1504
+103 # 1504

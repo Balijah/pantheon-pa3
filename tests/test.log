@@ -1,0 +1,16 @@
+# mahimahi mm-link (Downlink) [12mbps_ack.trace] > test.log## command line: 'mm-link' '12mbps_data.trace' '12mbps_ack.trace' '--uplink-log=test.log' '--downlink-log=test.log' '--' 'bash' '-c' 'which python && python --version'
+# queue: infinite
+# init timestamp: 1744896806274
+# base timestamp: 40440 + 80
+441 # 1504
+42 # 1504
+43 # 1504
+44 # 1504
+45 # 1504
+46 # 1504
+1504
+43 # 1504
+44 # 1504
+45 # 1504
+46 # 1504
+47 # 1504

@@ -1,0 +1,10 @@
+# mahimahi mm-link (Uplink) [/tmp/traces/50mbps_data.trace] > /home/burhan/Desktop/pantheon/src/experiments/files_50mbps_test/cubic_mm_datalink_run1.log
+# command line: 'mm-link' '/tmp/traces/50mbps_data.trace' '/tmp/traces/50mbps_data.trace' '--uplink-log=/home/burhan/Desktop/pantheon/src/experiments/files_50mbps_test/cubic_mm_datalink_run1.log' '--downlink-log=/home/burhan/Desktop/pantheon/src/experiments/files_50mbps_test/cubic_mm_acklink_run1.log' '--uplink-queue=droptail' '--downlink-queue=droptail' '--uplink-queue-args=packets=500' '--downlink-queue-args=packets=500' 'python' '/home/burhan/Desktop/pantheon/src/experiments/tunnel_manager.py'
+# queue: droptail [packets=500]
+# init timestamp: 1744926465707
+# base timestamp: 34
+# mahimahi config: [link] [delay 5 ms] 
+34 + 80
+34 + 52
+34 + 80
+73 + 80
