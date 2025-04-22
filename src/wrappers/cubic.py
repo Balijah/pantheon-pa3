@@ -23,6 +23,9 @@ def main():
         check_call(cmd)
         return
 
+def run_first():
+	return ['iperf', '-Z', 'cubic', '-c', '127.0.0.1', '-p', '5003', '-t', '75']
+
 
 if __name__ == '__main__':
     main()

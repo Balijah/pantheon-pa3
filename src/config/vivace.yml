@@ -1,0 +1,5 @@
+receiver:
+  cmd: "python src/wrappers/vivace.py receiver"
+sender:
+  cmd: "python src/wrappers/vivace.py sender"
+who_runs_first: receiver
